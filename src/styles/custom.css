@@ -1,0 +1,14 @@
+body{
+color:#9370DB;
+
+}
+.primary{
+    background:#9400D3 !important;
+}
+.secondary{
+    background:#9400D3 !important;
+    color:#9400D3 !important;
+}
+.bodyPart{
+    min-height: 450px;
+}
